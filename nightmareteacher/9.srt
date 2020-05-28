@@ -1,0 +1,998 @@
+1
+00:00:00,450 --> 00:00:02,450
+<font color="yellow"><font color=#ff8080>Nightmare Teacher</font>
+-=<font color=#ff6a6a>Episode 9</font>=-</font>
+
+2
+00:00:06,448 --> 00:00:07,828
+<font color="yellow"><i>Tak apa-apa, Do Hee.</i></font>
+
+3
+00:00:08,036 --> 00:00:09,906
+<font color="yellow"><i>Cuman mimpi buruk.</i></font>
+
+4
+00:00:09,930 --> 00:00:11,750
+<font color="yellow"><i>Begitu esok pagi datang</i></font>
+
+5
+00:00:11,774 --> 00:00:13,884
+<font color="yellow"><i>semua akan kembali seperti sedia kala.</i></font>
+
+6
+00:00:14,908 --> 00:00:15,908
+<font color="yellow"><i>Tak apa-apa.</i></font>
+
+7
+00:00:15,932 --> 00:00:17,662
+<font color="yellow"><i>Tak apa-apa, Do Do Hee.</i></font>
+
+8
+00:00:18,386 --> 00:00:18,539
+<font color="yellow">S</font>
+
+9
+00:00:18,540 --> 00:00:18,693
+<font color="yellow">Su</font>
+
+10
+00:00:18,694 --> 00:00:18,847
+<font color="yellow">Sub</font>
+
+11
+00:00:18,848 --> 00:00:19,000
+<font color="yellow">Subt</font>
+
+12
+00:00:19,001 --> 00:00:19,154
+<font color="yellow">Subti</font>
+
+13
+00:00:19,155 --> 00:00:19,308
+<font color="yellow">Subtit</font>
+
+14
+00:00:19,309 --> 00:00:19,462
+<font color="yellow">Subtitl</font>
+
+15
+00:00:19,463 --> 00:00:19,616
+<font color="yellow">Subtitle</font>
+
+16
+00:00:19,617 --> 00:00:19,770
+<font color="yellow">Subtitle</font>
+
+17
+00:00:19,771 --> 00:00:19,923
+<font color="yellow">Subtitle o</font>
+
+18
+00:00:19,924 --> 00:00:20,077
+<font color="yellow">Subtitle ol</font>
+
+19
+00:00:20,078 --> 00:00:20,231
+<font color="yellow">Subtitle ole</font>
+
+20
+00:00:20,232 --> 00:00:20,385
+<font color="yellow">Subtitle oleh</font>
+
+21
+00:00:20,386 --> 00:00:20,539
+<font color="yellow">Subtitle oleh</font>
+
+22
+00:00:20,540 --> 00:00:20,693
+<font color="yellow">Subtitle oleh :</font>
+
+23
+00:00:20,694 --> 00:00:20,847
+<font color="yellow">Subtitle oleh :</font>
+
+24
+00:00:20,848 --> 00:00:21,000
+<font color="yellow">Subtitle oleh :</font>
+
+25
+00:00:21,001 --> 00:00:21,154
+<font color="yellow">Subtitle oleh :
+D</font>
+
+26
+00:00:21,155 --> 00:00:21,308
+<font color="yellow">Subtitle oleh :
+Da</font>
+
+27
+00:00:21,309 --> 00:00:21,462
+<font color="yellow">Subtitle oleh :
+Dar</font>
+
+28
+00:00:21,463 --> 00:00:21,616
+<font color="yellow">Subtitle oleh :
+Dark</font>
+
+29
+00:00:21,617 --> 00:00:21,770
+<font color="yellow">Subtitle oleh :
+DarkS</font>
+
+30
+00:00:21,771 --> 00:00:21,923
+<font color="yellow">Subtitle oleh :
+DarkSm</font>
+
+31
+00:00:21,924 --> 00:00:22,077
+<font color="yellow">Subtitle oleh :
+DarkSmu</font>
+
+32
+00:00:22,078 --> 00:00:22,231
+<font color="yellow">Subtitle oleh :
+DarkSmur</font>
+
+33
+00:00:22,232 --> 00:00:22,385
+<font color="yellow">Subtitle oleh :
+DarkSmurf</font>
+
+34
+00:00:22,386 --> 00:00:22,539
+<font color="yellow">Subtitle oleh :
+DarkSmurfS</font>
+
+35
+00:00:22,540 --> 00:00:22,693
+<font color="yellow">Subtitle oleh :
+DarkSmurfSu</font>
+
+36
+00:00:22,694 --> 00:00:22,847
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub</font>
+
+37
+00:00:22,848 --> 00:00:23,000
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub</font>
+
+38
+00:00:23,001 --> 00:00:23,154
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub I</font>
+
+39
+00:00:23,155 --> 00:00:23,308
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub In</font>
+
+40
+00:00:23,309 --> 00:00:23,462
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub Ind</font>
+
+41
+00:00:23,463 --> 00:00:23,616
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub Indo</font>
+
+42
+00:00:23,617 --> 00:00:23,770
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub Indon</font>
+
+43
+00:00:23,771 --> 00:00:23,923
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub Indone</font>
+
+44
+00:00:23,924 --> 00:00:24,077
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub Indones</font>
+
+45
+00:00:24,078 --> 00:00:24,231
+<font color="yellow">Subtitle oleh :
+DarkSmurfSub Indonesi</font>
+
+46
+00:00:24,232 --> 00:00:32,386
+<font color="yellow">Subtitle oleh :
+<font color=#808080>Dark</font><font color=#ff8000>Smurf</font><font color=#808080>Sub</font> <font color=#ff0000>Indonesia</font></font>
+
+47
+00:00:32,410 --> 00:00:40,410
+<font color="yellow">Diterjemahkan oleh:
+~ <font color=#00ff00>to</font><font color=#ff00ff>to</font><font color=#ff8040>ro</font> <font color=#fcdb67>Saem</font> ~</font>
+
+48
+00:00:42,201 --> 00:00:45,871
+<font color="yellow"><i>Pijakan tangga sekolah terlalu sempit
+seorang guru terjatuh dan kakinya terluka.</i></font>
+
+49
+00:00:45,895 --> 00:00:47,605
+<font color="yellow"><i>Sungguh amat disayangkan.</i></font>
+
+50
+00:00:47,629 --> 00:00:52,459
+<font color="yellow"><i>Siswi SMA Yosan sekarang bening-bening,
+jadi saat mereka datang atmosfirnya jadi ceria.</i></font>
+
+51
+00:00:53,083 --> 00:00:56,423
+<font color="yellow"><i>Siswa peserta latihan yang paling diantisipasi, adalah L.</i></font>
+
+52
+00:00:56,447 --> 00:01:02,717
+<font color="yellow"><i>Belakangan ini ada kabar kalau dia
+ada apa-apa dengan C, model iklan SMA Yosan.</i></font>
+
+53
+00:01:02,741 --> 00:01:06,991
+<font color="yellow"><i>Siswi C yang baru kelas satu, begitu masuk sekolah
+sudah jadi siswi populer di SMA Yosan.</i></font>
+
+54
+00:01:07,015 --> 00:01:09,125
+<font color="yellow"><i>Seorang siswi yang cantik mempesona.</i></font>
+
+55
+00:01:09,849 --> 00:01:13,094
+<font color="yellow"><i>Sekilas lihat pun sudah ketahuan, L adalah Lee Jeong Suk
+dan C adalah Cheon Yoo Na.</i></font>
+
+56
+00:01:13,118 --> 00:01:15,198
+<font color="yellow"><i>Memangnya pakai inisial tak akan ketahuan?</i></font>
+
+57
+00:01:17,422 --> 00:01:19,962
+<font color="yellow"><i>Tapi bukannya Lee Jeong Suk sudah punya pacar?</i></font>
+
+58
+00:01:20,686 --> 00:01:22,456
+<font color="yellow"><i>Kabarnya sih sudah.</i></font>
+
+59
+00:01:23,580 --> 00:01:24,780
+<font color="yellow"><i>Sumpeh!? Siapa?</i></font>
+
+60
+00:01:27,526 --> 00:01:29,406
+<font color="yellow"><i>Jangan-jangan... si D?</i></font>
+
+61
+00:01:31,030 --> 00:01:33,140
+<font color="yellow"><i>Kasihan sekali si D.</i></font>
+
+62
+00:01:35,181 --> 00:01:37,921
+<font color="yellow"><i>Hei, ngomong-omong Si D tuh siapa?</i></font>
+
+63
+00:01:38,245 --> 00:01:40,315
+<font color="yellow"><i>Kasih tahu dong, Gyeon Wang(<font color=#ffff80>Raja Gosip</font>)!</i></font>
+
+64
+00:01:41,139 --> 00:01:43,049
+<font color="yellow"><i>Halo, sobat SMA Yosan.</i></font>
+
+65
+00:01:43,073 --> 00:01:45,993
+<font color="yellow"><i>Aku si Raja Gosip SMA Yosan, panggil aku Gyeon Wang.</i></font>
+
+66
+00:01:46,017 --> 00:01:50,417
+<font color="yellow"><i>Penasaran dengan si D yang jadi bahan gosip itu?
+Si D adalah siswi kelas 2-3, Do Do Hee.</i></font>
+
+67
+00:01:50,441 --> 00:01:52,481
+<font color="yellow"><i>Nama dan wajahnya sama cantiknya.</i></font>
+
+68
+00:01:52,505 --> 00:01:53,605
+<font color="yellow"><i>Minta foto padaku?</i></font>
+
+69
+00:01:53,629 --> 00:01:56,359
+<font color="yellow"><i>Buat teman-teman yang penasaran,
+nih aku attach fotonya.</i></font>
+
+70
+00:01:56,883 --> 00:02:01,583
+<font color="yellow"><i>Model iklan promosi SMA Yosan tahun lalu
+adalah Do Do Hee.</i></font>
+
+71
+00:02:01,607 --> 00:02:04,127
+<font color="yellow"><i>Teman-teman SMA Yosan, jika butuh bantuan
+panggil saja aku.</i></font>
+
+72
+00:02:04,151 --> 00:02:06,151
+<font color="yellow"><i>Sudah ah, aku cabut.</i>
+[<font color=#ffff80>cabut/pergi : homonim dengan 20 ribu (iman)</font>]</font>
+
+73
+00:02:07,875 --> 00:02:10,305
+<font color="yellow"><i>Wah, Lee Jeong Suk brengsek.</i></font>
+
+74
+00:02:10,929 --> 00:02:12,579
+<font color="yellow"><i>Dia selingkuh ya?</i></font>
+
+75
+00:02:12,603 --> 00:02:15,203
+<font color="yellow">Bener. Cheon Yoo Na
+cantik sebelah mananya sih?</font>
+
+76
+00:02:15,227 --> 00:02:17,337
+<font color="yellow">- Cantikan Do Do Hee kemana-mana.
+- Betul tuh.</font>
+
+77
+00:02:18,161 --> 00:02:20,376
+<font color="yellow">Makasih ya,
+kalian teman yang baik.</font>
+
+78
+00:02:20,400 --> 00:02:23,440
+<font color="yellow">Sebagai teman bidadari Do Do Hee
+dari kelas 2-3.</font>
+
+79
+00:02:23,464 --> 00:02:25,184
+<font color="yellow">Aku bicara berdasarkan fakta.</font>
+
+80
+00:02:31,008 --> 00:02:32,308
+<font color="yellow">Ajussi!</font>
+
+81
+00:02:36,032 --> 00:02:38,242
+<font color="yellow">Mana boleh main copot seenaknya begitu?</font>
+
+82
+00:02:45,666 --> 00:02:47,996
+<font color="yellow">Bukankah dia Cheon Yoo Na?</font>
+
+83
+00:02:48,020 --> 00:02:52,380
+<font color="yellow">Hei, dia itu dilihat dari sudut manapun
+terlihat kaku.</font>
+
+84
+00:02:52,404 --> 00:02:54,614
+<font color="yellow">Sepertinya ada bagian tubuhnya
+yang dioplas, iya kan?</font>
+
+85
+00:02:55,538 --> 00:02:57,398
+<font color="yellow">Sekilas ketahuan</font>
+
+86
+00:02:57,922 --> 00:02:59,462
+<font color="yellow">cantiknya alami.</font>
+
+87
+00:03:02,813 --> 00:03:05,633
+<font color="yellow">Benar, natural dan cantik.</font>
+
+88
+00:03:05,657 --> 00:03:07,287
+<font color="yellow">Usianya masih muda lagi.</font>
+
+89
+00:03:07,711 --> 00:03:11,441
+<font color="yellow">Tapi ya, Jeong Suk makin tampan saja.</font>
+
+90
+00:03:11,965 --> 00:03:14,675
+<font color="yellow">Dibanding saat kelas 1
+sekarang terlihat lebih dewasa.</font>
+
+91
+00:03:16,150 --> 00:03:18,520
+<font color="yellow">Benar, Jeong Suk sangat tampan.</font>
+
+92
+00:03:20,690 --> 00:03:22,090
+<font color="yellow">Aku duluan.</font>
+
+93
+00:03:24,114 --> 00:03:27,964
+<font color="yellow">Ampun, tak ada pasangan
+yang lebih serasi dari ini, ya kan?</font>
+
+94
+00:03:37,640 --> 00:03:39,160
+<font color="yellow"><i>Oh, ada Jeong Suk!</i></font>
+
+95
+00:03:45,406 --> 00:03:47,056
+<font color="yellow"><i>Oh, Jeong Suk!</i></font>
+
+96
+00:03:48,330 --> 00:03:53,330
+<font color="yellow"><font color=#ff8080>Timing</font> : <font color=#8080ff> i</font>.<font color=#80ffff>f</font>.<font color=#8080ff>a</font>.<font color=#80ffff>b</font>.<font color=#8080ff>e</font>.<font color=#80ffff>e</font></font>
+
+97
+00:04:01,680 --> 00:04:04,790
+<font color="yellow">Maksudmu kau ingin putus.</font>
+
+98
+00:04:06,080 --> 00:04:07,780
+<font color="yellow">Sebetulnya bukannya ingin putus.</font>
+
+99
+00:04:08,004 --> 00:04:10,364
+<font color="yellow">Kita butuh waktu
+untuk memikirkannya kembali.</font>
+
+100
+00:04:12,713 --> 00:04:14,593
+<font color="yellow">Tak perlu cari alasan, Lee Jeong Suk.</font>
+
+101
+00:04:14,917 --> 00:04:17,747
+<font color="yellow">Soal kau pacaran dengan Yoo Na
+satu sekolah sudah pada tahu.</font>
+
+102
+00:04:17,971 --> 00:04:21,096
+<font color="yellow">- Do Hee...
+- Cheon Yoo Na memang cantik. Masih muda lagi.</font>
+
+103
+00:04:23,020 --> 00:04:25,240
+<font color="yellow">Jujur saja saking cantiknya
+aku sampai iri.</font>
+
+104
+00:04:26,264 --> 00:04:27,994
+<font color="yellow">Itu cuman berita bohong.</font>
+
+105
+00:04:29,318 --> 00:04:30,718
+<font color="yellow">Do Do Hee!</font>
+
+106
+00:04:30,842 --> 00:04:32,912
+<font color="yellow">Baik, kita putus saja.</font>
+
+107
+00:04:36,160 --> 00:04:37,400
+<font color="yellow">Tapi kau harus tahu</font>
+
+108
+00:04:38,924 --> 00:04:40,954
+<font color="yellow">bukan kau yang memutuskanku.</font>
+
+109
+00:04:42,378 --> 00:04:43,848
+<font color="yellow">Tapi aku yang memutuskanmu.</font>
+
+110
+00:04:46,172 --> 00:04:47,492
+<font color="yellow">Mengerti?</font>
+
+111
+00:05:00,060 --> 00:05:02,690
+<font color="yellow">Kenapa? Menurutmu ada yang aneh?</font>
+
+112
+00:05:04,314 --> 00:05:05,654
+<font color="yellow">Bangku yang itu.</font>
+
+113
+00:05:07,075 --> 00:05:08,985
+<font color="yellow">Siapa yang duduk di situ
+apa kau tahu?</font>
+
+114
+00:05:11,409 --> 00:05:13,509
+<font color="yellow">Aku tak tahu apa yang terjadi, tapi...</font>
+
+115
+00:05:13,533 --> 00:05:18,853
+<font color="yellow">1, 2, 3... 4.</font>
+
+116
+00:05:19,777 --> 00:05:22,537
+<font color="yellow">Bangku kosong di kelas kita lumayan banyak.</font>
+
+117
+00:05:54,358 --> 00:05:56,588
+<font color="yellow">Oh, ini....</font>
+
+118
+00:05:58,360 --> 00:06:00,060
+<font color="yellow">- Ye Rim.
+- Apaan?</font>
+
+119
+00:06:00,084 --> 00:06:01,484
+<font color="yellow">Ini...</font>
+
+120
+00:06:04,260 --> 00:06:06,260
+<font color="yellow">Hei, kau suruh aku lihat apaan?</font>
+
+121
+00:06:08,725 --> 00:06:10,765
+<font color="yellow">Aih, lihat apaan memangnya?</font>
+
+122
+00:06:10,789 --> 00:06:13,049
+<font color="yellow">Kursinya, maksudku.</font>
+
+123
+00:06:13,573 --> 00:06:14,773
+<font color="yellow">Tuh lihat!</font>
+
+124
+00:06:14,797 --> 00:06:16,797
+<font color="yellow">-=<font color=#ffff80>Go Ki Tae sahabatku,
+suka main basket. Pakai seragam tak rapi.
+Suka game Square Crush. Namaku Cheon Jae Su</font>=-</font>
+
+125
+00:06:19,021 --> 00:06:21,391
+<font color="yellow">Go Ki Tae... Cheon Jae Su?</font>
+
+126
+00:06:24,215 --> 00:06:28,425
+<font color="yellow"><i>Ingatan hilang satu persatu.</i></font>
+
+127
+00:06:31,249 --> 00:06:32,969
+<font color="yellow"><i>Sebelum semua ingatan hilang,</i></font>
+
+128
+00:06:33,993 --> 00:06:35,623
+<font color="yellow"><i>harus kucatat.</i></font>
+
+129
+00:06:36,647 --> 00:06:41,667
+<font color="yellow"><i>Namaku, Cheon Jae Su.</i></font>
+
+130
+00:06:43,291 --> 00:06:49,501
+<font color="yellow"><i>Sahabat baikku, Go... Ki... Tae.</i></font>
+
+131
+00:06:55,025 --> 00:06:56,455
+<font color="yellow">Ah, Ki Tae.</font>
+
+132
+00:06:57,879 --> 00:07:00,559
+<font color="yellow">Cheon Jae Su itu siapa, kau ingat?</font>
+
+133
+00:07:01,783 --> 00:07:03,613
+<font color="yellow">Cheon Jae Su?</font>
+
+134
+00:07:05,230 --> 00:07:06,360
+<font color="yellow">Siapa?</font>
+
+135
+00:07:08,108 --> 00:07:10,828
+<font color="yellow">Tidak. Kali saja kau kenal.</font>
+
+136
+00:07:19,052 --> 00:07:20,352
+<font color="yellow"><i>Hei, sudah dengar?</i></font>
+
+137
+00:07:20,376 --> 00:07:22,856
+<font color="yellow"><i>Jeong Suk mutusin Do Do Hee
+dan pacaran dengan yang lebih cantik.</i></font>
+
+138
+00:07:22,880 --> 00:07:23,880
+<font color="yellow"><i>Dasar playboy!</i></font>
+
+139
+00:07:23,904 --> 00:07:26,004
+<font color="yellow"><i>Masih ngaku wakil cowok baik-baik
+dari kelas 2.</i></font>
+
+140
+00:07:26,028 --> 00:07:28,128
+<font color="yellow"><i>Begitu ada wajah baru lansung disambar.</i></font>
+
+141
+00:07:28,152 --> 00:07:30,152
+<font color="yellow"><i>Hal seperti ini
+sudah pernah terjadi berkali-kali.</i></font>
+
+142
+00:07:30,176 --> 00:07:32,576
+<font color="yellow"><i>- Memang cantik sih.
+- Do Do Hee dulu sangat cantik, lebih cantik malah.</i></font>
+
+143
+00:07:32,600 --> 00:07:34,640
+<font color="yellow">Tidak! Tidak! Tidak!</font>
+
+144
+00:07:39,964 --> 00:07:41,484
+<font color="yellow">Aku Do Do Hee.</font>
+
+145
+00:07:41,908 --> 00:07:43,908
+<font color="yellow">Aku adalah Do Do Hee.</font>
+
+146
+00:07:44,432 --> 00:07:47,152
+<font color="yellow">Bidadari SMA Yosan, Do Do Hee.</font>
+
+147
+00:07:49,476 --> 00:07:51,396
+<font color="yellow">Bidadari SMA Yosan adalah Do Do Hee.</font>
+
+148
+00:08:07,117 --> 00:08:11,027
+<font color="yellow">My Cam Perfect?</font>
+
+149
+00:08:16,092 --> 00:08:17,492
+<font color="yellow">Apaan?</font>
+
+150
+00:08:19,733 --> 00:08:21,133
+<font color="yellow">=Bagaimanapun akan terlihat Bling Bling=</font>
+
+151
+00:08:21,157 --> 00:08:23,357
+<font color="yellow">=Coba sekarang akan langsung
+berubah Bling Bling=</font>
+
+152
+00:08:23,381 --> 00:08:25,121
+<font color="yellow">=Semua akan berubah.=</font>
+
+153
+00:08:40,410 --> 00:08:41,710
+<font color="yellow">Apaan ini?</font>
+
+154
+00:08:45,910 --> 00:08:49,040
+<font color="yellow">Oh, boleh juga.</font>
+
+155
+00:09:10,564 --> 00:09:12,579
+<font color="yellow"><i>Mukanya tak sebesar itu kali.</i></font>
+
+156
+00:09:12,603 --> 00:09:14,003
+<font color="yellow">Nah, kan.</font>
+
+157
+00:09:15,027 --> 00:09:17,967
+<font color="yellow">Hei, Do Hee wajah kok bisa begitu?</font>
+
+158
+00:09:18,985 --> 00:09:20,735
+<font color="yellow">Cantik banget.</font>
+
+159
+00:09:24,560 --> 00:09:26,640
+<font color="yellow">Do Hee, kau pakai lipstik apa?</font>
+
+160
+00:09:30,470 --> 00:09:32,340
+<font color="yellow">Tak pakai lipstik kok.</font>
+
+161
+00:09:33,364 --> 00:09:35,184
+<font color="yellow">Hei, tidak mungkin.</font>
+
+162
+00:09:36,108 --> 00:09:37,918
+<font color="yellow">Oh, itu Do Hee. Do Hee!</font>
+
+163
+00:09:46,870 --> 00:09:48,610
+<font color="yellow"><i>Memangnya ada bidadari secantik ini
+di sekolah kita?</i></font>
+
+164
+00:09:50,434 --> 00:09:52,444
+<font color="yellow"><i>Sebentar, dia Do Do Hee
+kelas 2-3?</i></font>
+
+165
+00:09:54,206 --> 00:09:55,916
+<font color="yellow"><i>Serius? Do Do Hee?</i></font>
+
+166
+00:09:56,770 --> 00:10:00,430
+<font color="yellow"><i>Editan Photoshop kali.
+Do Do Hee kan nggak cakep-cakep amat.</i></font>
+
+167
+00:10:00,454 --> 00:10:04,504
+<font color="yellow"><i>Seperti keracunan make-up.
+Pastinya perubahan pada cewek bukanlah dosa.</i></font>
+
+168
+00:10:04,528 --> 00:10:07,358
+<font color="yellow"><i>Halo, sobat SMA Yosan.</i></font>
+
+169
+00:10:07,382 --> 00:10:10,452
+<font color="yellow"><i>Aku Biang Gosip SMA Yosan.</i></font>
+
+170
+00:10:10,476 --> 00:10:12,556
+<font color="yellow"><i>Foto ini 100% bukan rekayasa.</i></font>
+
+171
+00:10:12,580 --> 00:10:14,380
+<font color="yellow"><i>Tapi fakta yang sebenarnya.</i></font>
+
+172
+00:10:14,404 --> 00:10:16,464
+<font color="yellow"><i>Aku berani jamin
+cantiknya terlihat alami.</i></font>
+
+173
+00:10:16,488 --> 00:10:18,228
+<font color="yellow"><i>Garis wajahnya berubah jadi lebih tirus.</i></font>
+
+174
+00:10:18,252 --> 00:10:20,967
+<font color="yellow"><i>Sama sekali tidak ada yang aneh.</i></font>
+
+175
+00:10:21,191 --> 00:10:23,961
+<font color="yellow"><i>Semata-mata karena Do Do Hee
+jadi makin cantik.</i></font>
+
+176
+00:10:23,985 --> 00:10:24,985
+<font color="yellow"><i>Sobat SMA Yosan...</i></font>
+
+177
+00:10:25,209 --> 00:10:27,329
+<font color="yellow"><i>Kalau masih perlu bantuan,
+panggil saja aku.</i></font>
+
+178
+00:10:27,553 --> 00:10:29,553
+<font color="yellow"><i>Sudah ya, cabut dulu!</i></font>
+
+179
+00:10:29,877 --> 00:10:32,827
+<font color="yellow"><i>Kelaut sana!! Banyak bacot lu!</i></font>
+
+180
+00:10:42,251 --> 00:10:43,451
+<font color="yellow">Do Hee, sebentar.</font>
+
+181
+00:10:43,975 --> 00:10:45,695
+<font color="yellow">Sebentar saja, aku mau bicara.</font>
+
+182
+00:10:46,119 --> 00:10:47,219
+<font color="yellow">Ada apa?</font>
+
+183
+00:10:47,901 --> 00:10:50,016
+<font color="yellow">Tak ada yang perlu dibicarakan lagi.</font>
+
+184
+00:10:51,207 --> 00:10:52,607
+<font color="yellow">Ayolah sebentar saja.</font>
+
+185
+00:10:52,631 --> 00:10:54,031
+<font color="yellow">Sebentar saja kita bicara.</font>
+
+186
+00:10:55,555 --> 00:10:57,955
+<font color="yellow">Sudahlah, cari saja Yoo Na.</font>
+
+187
+00:11:01,924 --> 00:11:04,069
+<font color="yellow">Baik, aku akan jujur padamu.</font>
+
+188
+00:11:04,593 --> 00:11:07,293
+<font color="yellow">Aku hanya perhatian sedikit pada Yoo Na.</font>
+
+189
+00:11:09,040 --> 00:11:10,440
+<font color="yellow">Aku salah.</font>
+
+190
+00:11:12,170 --> 00:11:13,715
+<font color="yellow">Tapi, Do Hee....</font>
+
+191
+00:11:13,739 --> 00:11:16,939
+<font color="yellow">Bagiku... hanya kau seorang.</font>
+
+192
+00:11:17,163 --> 00:11:19,288
+<font color="yellow">Aku sudah merenungkannya.</font>
+
+193
+00:11:20,826 --> 00:11:22,746
+<font color="yellow">Beri aku satu kesempatan lagi, bisa?</font>
+
+194
+00:11:27,560 --> 00:11:28,560
+<font color="yellow">Apaan sih?</font>
+
+195
+00:11:28,584 --> 00:11:29,984
+<font color="yellow">Berdirilah.</font>
+
+196
+00:11:30,508 --> 00:11:32,618
+<font color="yellow">Berjanjilah memaafkan aku,
+baru aku mau berdiri.</font>
+
+197
+00:11:32,642 --> 00:11:34,692
+<font color="yellow">Kumaafkan, kumaafkan.
+Buruan berdiri.</font>
+
+198
+00:11:35,516 --> 00:11:37,426
+<font color="yellow">Benar kau memaafkanku?</font>
+
+199
+00:11:37,750 --> 00:11:39,390
+<font color="yellow">Kita jalani lagi hubungan kita?</font>
+
+200
+00:11:39,414 --> 00:11:41,414
+<font color="yellow">Iya, iya, cepat berdirilah.</font>
+
+201
+00:11:43,330 --> 00:11:44,630
+<font color="yellow">Do Do Hee.</font>
+
+202
+00:11:44,654 --> 00:11:48,984
+<font color="yellow">Do Hee...
+Bagiku hanya kau seorang, percayalah.</font>
+
+203
+00:11:54,685 --> 00:11:57,985
+<font color="yellow">=Masa trial My Cam Perfect hanya 5 menit.=</font>
+
+204
+00:11:58,509 --> 00:12:00,009
+<font color="yellow">Hanya trial?</font>
+
+205
+00:12:02,133 --> 00:12:03,433
+<font color="yellow">Aku harus pergi.</font>
+
+206
+00:12:03,957 --> 00:12:05,397
+<font color="yellow">Mau kemana?</font>
+
+207
+00:12:06,521 --> 00:12:07,961
+<font color="yellow">Hei, Do Hee!</font>
+
+208
+00:12:13,685 --> 00:12:15,385
+<font color="yellow">Sial, kenapa ini?</font>
+
+209
+00:12:16,209 --> 00:12:18,259
+<font color="yellow">=Trial sudah berakhir.=</font>
+
+210
+00:12:18,283 --> 00:12:20,647
+<font color="yellow">=Semua perubahan
+akan kembali seperti semula.=</font>
+
+211
+00:12:20,971 --> 00:12:22,871
+<font color="yellow">Kembali semula?
+Tidak! Hei!</font>
+
+212
+00:12:37,715 --> 00:12:40,815
+<font color="yellow">-=Versi full-nya bisa didapatkan di mana ya?=-</font>
+
+213
+00:12:43,060 --> 00:12:45,060
+<font color="yellow">Kumohon, kumohon, kumohon.</font>
+
+214
+00:12:47,264 --> 00:12:50,604
+<font color="yellow"><i>Kalau kau menginginkan APP-nya
+datanglah ke Ruang BK.</i></font>
+
+215
+00:12:52,261 --> 00:12:53,261
+<font color="yellow">Ruang BK?</font>
+
+216
+00:12:53,485 --> 00:12:54,585
+<font color="yellow">-=Ruang BK=-</font>
+
+217
+00:12:54,709 --> 00:12:58,249
+<font color="yellow">Penggunaan versi trial ada batasnya
+dan sangat tidak tentu.</font>
+
+218
+00:12:58,773 --> 00:13:01,878
+<font color="yellow">Benar, kan? Seperti halnya suasana hatimu.</font>
+
+219
+00:13:02,740 --> 00:13:03,740
+<font color="yellow">Maaf?</font>
+
+220
+00:13:04,536 --> 00:13:06,416
+<font color="yellow">Bapak tak punya aplikasi resminya.</font>
+
+221
+00:13:08,140 --> 00:13:10,250
+<font color="yellow">Saem, bagaimana Anda tahu
+APP itu?</font>
+
+222
+00:13:12,374 --> 00:13:14,374
+<font color="yellow">Aplikasi ini Saem yang mengirimnya?</font>
+
+223
+00:13:15,098 --> 00:13:17,738
+<font color="yellow">Saem pembuat aplikasi ini?</font>
+
+224
+00:13:18,780 --> 00:13:22,860
+<font color="yellow">Bukan Bapak yang membuatnya
+tapi Bapak kenal orang yang membuatnya.</font>
+
+225
+00:13:25,262 --> 00:13:29,432
+<font color="yellow">Saem, kalau saya beli
+full versi-nya bisa tidak?</font>
+
+226
+00:13:30,456 --> 00:13:31,656
+<font color="yellow">Tidak sulit.</font>
+
+227
+00:13:31,980 --> 00:13:35,840
+<font color="yellow">Tapi butuh beberapa syarat.</font>
+
+228
+00:13:38,852 --> 00:13:40,152
+<font color="yellow">Untuk apa?</font>
+
+229
+00:13:46,968 --> 00:13:49,088
+<font color="yellow">Kontrak disepakati.</font>
+
+230
+00:13:53,610 --> 00:14:01,610
+<font color="yellow">-=<font color=#ff8080>Nantikan Episode Selanjutnya</font>=-</font>
+
+231
+00:14:02,134 --> 00:14:22,134
+<font color="yellow"><font color=#ff0000>Like!</font> <font color=#00ff80>Fanpage</font> <font color=#0080ff>DarkSmurfSubIndo</font>
+<font color=#ffff00>Follow>></font><font color=#ff8080>Twitter</font> : <font color=#ff8000>@Dssindo</font>
+<font color=#ff80ff>BLOG</font> : <font color=#8080ff>dssindonesia.blogspot.com </font></font>
+

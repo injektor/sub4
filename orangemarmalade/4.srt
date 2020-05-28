@@ -1,0 +1,2273 @@
+﻿1
+00:00:10,080 --> 00:00:11,620
+-=<font color="#ffb4d7">Episode 4</font>=-
+
+2
+00:00:34,470 --> 00:00:36,490
+<i>Aku...</i>
+
+3
+00:00:36,490 --> 00:00:39,880
+<i>bukan tipe seperti yang kaubayangkan.</i>
+
+4
+00:00:39,880 --> 00:00:42,310
+<i>Tapi...</i>
+
+5
+00:00:42,310 --> 00:00:45,450
+<i>aku menyukaimu.</i>
+
+6
+00:00:45,450 --> 00:00:46,810
+<i>Maafkan aku.</i>
+
+7
+00:00:46,810 --> 00:00:51,020
+<i>Kalau memang begitu,
+teruslah merasa menyesal.</i>
+
+8
+00:01:08,280 --> 00:01:09,920
+Masuklah dulu.
+
+9
+00:01:09,920 --> 00:01:11,330
+Kamu bagaimana?
+
+10
+00:01:11,330 --> 00:01:13,040
+Aku mau jalan-jalan sebentar.
+
+11
+00:01:13,040 --> 00:01:15,370
+Baiklah.
+
+12
+00:01:15,370 --> 00:01:16,510
+Masuklah.
+
+13
+00:01:16,510 --> 00:01:18,810
+Pergilah dulu.
+
+14
+00:01:19,660 --> 00:01:21,480
+Baik.
+
+15
+00:01:29,820 --> 00:01:32,110
+Selamat malam.
+
+16
+00:02:02,570 --> 00:02:07,080
+<i>Jae Min kamu  juga tertulis di sini.</i>
+
+17
+00:02:08,300 --> 00:02:12,050
+<i>Banyaklah tertawa, jangan sampai sakit.</i>
+
+18
+00:02:12,050 --> 00:02:15,130
+<i>Kuharap kamu tak kesepian
+dan hari-harimu membahagiakan </i>
+
+19
+00:02:15,130 --> 00:02:17,110
+<i>Jae Min,</i>
+
+20
+00:02:18,260 --> 00:02:22,270
+<i>Aku sangat senang melihatmu bermain gitar.
+Aku senang sekali.</i>
+
+21
+00:02:22,295 --> 00:02:22,434
+S
+
+22
+00:02:22,435 --> 00:02:22,573
+Su
+
+23
+00:02:22,574 --> 00:02:22,713
+Sub
+
+24
+00:02:22,714 --> 00:02:22,852
+Subt
+
+25
+00:02:22,853 --> 00:02:22,992
+Subti
+
+26
+00:02:22,993 --> 00:02:23,131
+Subtit
+
+27
+00:02:23,132 --> 00:02:23,271
+Subtitl
+
+28
+00:02:23,272 --> 00:02:23,410
+Subtitle
+
+29
+00:02:23,411 --> 00:02:23,550
+Subtitle
+
+30
+00:02:23,551 --> 00:02:23,689
+Subtitle o
+
+31
+00:02:23,690 --> 00:02:23,829
+Subtitle ol
+
+32
+00:02:23,830 --> 00:02:23,968
+Subtitle ole
+
+33
+00:02:23,969 --> 00:02:24,108
+Subtitle oleh
+
+34
+00:02:24,109 --> 00:02:24,247
+Subtitle oleh
+
+35
+00:02:24,248 --> 00:02:24,387
+Subtitle oleh :
+
+36
+00:02:24,388 --> 00:02:24,527
+Subtitle oleh :
+
+37
+00:02:24,528 --> 00:02:24,666
+Subtitle oleh :
+
+38
+00:02:24,667 --> 00:02:24,806
+Subtitle oleh :
+~
+
+39
+00:02:24,807 --> 00:02:24,945
+Subtitle oleh :
+~
+
+40
+00:02:24,946 --> 00:02:25,085
+Subtitle oleh :
+~ D
+
+41
+00:02:25,086 --> 00:02:25,224
+Subtitle oleh :
+~ Da
+
+42
+00:02:25,225 --> 00:02:25,364
+Subtitle oleh :
+~ Dar
+
+43
+00:02:25,365 --> 00:02:25,503
+Subtitle oleh :
+~ Dark
+
+44
+00:02:25,504 --> 00:02:25,643
+Subtitle oleh :
+~ DarkS
+
+45
+00:02:25,644 --> 00:02:25,782
+Subtitle oleh :
+~ DarkSm
+
+46
+00:02:25,783 --> 00:02:25,922
+Subtitle oleh :
+~ DarkSmu
+
+47
+00:02:25,923 --> 00:02:26,061
+Subtitle oleh :
+~ DarkSmur
+
+48
+00:02:26,062 --> 00:02:26,201
+Subtitle oleh :
+~ DarkSmurf
+
+49
+00:02:26,202 --> 00:02:26,341
+Subtitle oleh :
+~ DarkSmurfS
+
+50
+00:02:26,342 --> 00:02:26,480
+Subtitle oleh :
+~ DarkSmurfSu
+
+51
+00:02:26,481 --> 00:02:26,620
+Subtitle oleh :
+~ DarkSmurfSub
+
+52
+00:02:26,621 --> 00:02:26,759
+Subtitle oleh :
+~ DarkSmurfSub
+
+53
+00:02:26,760 --> 00:02:26,899
+Subtitle oleh :
+~ DarkSmurfSub I
+
+54
+00:02:26,900 --> 00:02:27,038
+Subtitle oleh :
+~ DarkSmurfSub In
+
+55
+00:02:27,039 --> 00:02:27,178
+Subtitle oleh :
+~ DarkSmurfSub Ind
+
+56
+00:02:27,179 --> 00:02:27,317
+Subtitle oleh :
+~ DarkSmurfSub Indo
+
+57
+00:02:27,318 --> 00:02:27,457
+Subtitle oleh :
+~ DarkSmurfSub Indon
+
+58
+00:02:27,458 --> 00:02:27,596
+Subtitle oleh :
+~ DarkSmurfSub Indone
+
+59
+00:02:27,597 --> 00:02:27,736
+Subtitle oleh :
+~ DarkSmurfSub Indones
+
+60
+00:02:27,737 --> 00:02:27,875
+Subtitle oleh :
+~ DarkSmurfSub Indonesi
+
+61
+00:02:27,876 --> 00:02:28,015
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+62
+00:02:28,016 --> 00:02:28,154
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+63
+00:02:28,155 --> 00:02:34,295
+Subtitle oleh :
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+
+64
+00:02:34,320 --> 00:02:40,320
+Diterjemahkan oleh :
+~<font color="#8080ff"> i</font>.<font color="#80ffff">f</font>.<font color="#8080ff">a</font>.<font color="#80ffff">b</font>.<font color="#8080ff">e</font>.<font color="#80ffff">e</font> ~
+
+65
+00:02:55,380 --> 00:02:58,530
+Menyenangkan bisa makan bersama seperti ini.
+
+66
+00:02:58,530 --> 00:03:00,820
+Sudah sebulan.
+
+67
+00:03:00,820 --> 00:03:03,100
+Maaf, tak bisa sering berkunjung.
+
+68
+00:03:03,100 --> 00:03:05,940
+Tapi kali ini kamu datang bersama Jae Min dan Shi Hoo.
+
+69
+00:03:05,940 --> 00:03:08,500
+Soal Shi Hoo-
+
+70
+00:03:08,500 --> 00:03:13,270
+Aku akan makan malam di sini...
+
+71
+00:03:24,980 --> 00:03:28,020
+Shi Hoo dan Jae Min...
+
+72
+00:03:28,020 --> 00:03:31,080
+Betapa senangnya
+kalau kita bisa duduk semeja?
+
+73
+00:03:31,080 --> 00:03:34,900
+Nah itu dia, Jae Min masih belum tahu...
+
+74
+00:03:34,900 --> 00:03:36,390
+Kalau Shi Hoo keponakanku.
+
+75
+00:03:36,390 --> 00:03:39,710
+Iya, aku tahu itu rahasia.
+
+76
+00:03:39,710 --> 00:03:42,320
+Aku merasa lebih baik
+mengetahui mereka satu sekolah.
+
+77
+00:03:42,320 --> 00:03:47,270
+Bisa jadi pertimbangan VCS dan jadi peringatan terakhir.
+
+78
+00:03:47,270 --> 00:03:51,450
+Kalau melanggar lagi, Shi Hoo harus menghadapi
+hukuman Ahn Chi.
+
+79
+00:03:51,450 --> 00:03:55,020
+Alasan kenapa Shi Hoo bikin masalah karena
+
+80
+00:03:55,020 --> 00:03:59,430
+dia mengetahui orang tuanya
+menerima hukuman Ahn Chi.
+
+81
+00:03:59,430 --> 00:04:02,710
+Sebentar, aku akan panggil Shi Hoo...
+
+82
+00:04:02,710 --> 00:04:06,130
+Pasti berat sekali mengdapainya, mengetahui
+
+83
+00:04:06,130 --> 00:04:09,280
+orang tuanya dipisahkan dari masyarakat
+karena dia.
+
+84
+00:04:09,280 --> 00:04:12,790
+Dia belum tahu hal itu.
+
+85
+00:04:31,690 --> 00:04:35,350
+Shi Hoo!
+
+86
+00:04:36,110 --> 00:04:38,120
+Shi Hoo!
+
+87
+00:04:42,360 --> 00:04:46,260
+Apa semuanya diketahui?
+
+88
+00:04:46,260 --> 00:04:48,350
+Banyak, tapi ada yang belum ketahuan?
+
+89
+00:04:48,350 --> 00:04:50,880
+Shi Hoo, sebetulnya...
+
+90
+00:04:50,880 --> 00:04:53,520
+Hidup yang kacau.
+
+91
+00:04:53,520 --> 00:04:56,140
+Sekarang jadi masuk akal.
+
+92
+00:04:56,140 --> 00:04:58,070
+Ayo masuk dan jangan bicarakan di sini.
+
+93
+00:04:58,070 --> 00:05:00,610
+Karena aku, kan?
+
+94
+00:05:00,610 --> 00:05:03,580
+Semuanya. Kenapa?
+
+95
+00:05:03,580 --> 00:05:05,610
+Apa aku melakukan kesalahan?
+
+96
+00:05:05,610 --> 00:05:09,310
+Tanpa kuketahui, orang tuaku
+
+97
+00:05:09,310 --> 00:05:10,950
+dipisahkan?
+
+98
+00:05:10,950 --> 00:05:13,610
+Bukan begitu. Kamu masih terlalu muda...
+
+99
+00:05:13,610 --> 00:05:16,380
+Kau belum bisa mengendalikan insting vampir
+
+100
+00:05:16,380 --> 00:05:18,100
+Bukan salahmu.
+
+101
+00:05:18,100 --> 00:05:20,950
+Insting vampir?
+
+102
+00:05:23,500 --> 00:05:28,250
+Aku bosan menghisap darah manusia.
+
+103
+00:05:28,250 --> 00:05:31,410
+- Karena itulah kenapa semua ini terjadi.
+- Shi Hoo.
+
+104
+00:05:31,410 --> 00:05:35,130
+Samchon, kau ingin aku mengatakan
+yang sebenarnya?
+
+105
+00:05:35,810 --> 00:05:39,350
+Karena aku, ibu dan ayahku
+
+106
+00:05:40,420 --> 00:05:44,800
+menggunakan kemampuan vampir mereka.
+
+107
+00:05:45,370 --> 00:05:46,930
+Dan karena itulah seseorang terluka.
+
+108
+00:05:46,930 --> 00:05:49,310
+Kenyataan kalau ada seseorang yang terluka..
+
+109
+00:05:49,310 --> 00:05:52,850
+Itu kecelakaan. Toh bisa disembuhkan...
+
+110
+00:05:52,850 --> 00:05:56,950
+Aku selalu ingin tahu apa alasannya,
+dan memikirkan sesuatu seperti itu.
+
+111
+00:05:56,950 --> 00:06:01,480
+Kecelakaan? Tak mungkin VCS menganggapnya
+sebagai kecelakaan.
+
+112
+00:06:01,480 --> 00:06:03,640
+Itu sebabnya mereka dipisahkan.
+
+113
+00:06:03,640 --> 00:06:08,110
+Kenyataan kalau vampir menggunakan kekuatannya,
+adalah ketakutan bagi manusia.
+
+114
+00:06:08,110 --> 00:06:09,290
+Shi Hoo...
+
+115
+00:06:09,290 --> 00:06:13,070
+Kemampuan yang harus mereka batasi
+apapun caranya.
+
+116
+00:06:13,070 --> 00:06:16,330
+Bagi manusia, kemampuan kita
+
+117
+00:06:16,330 --> 00:06:19,850
+adalah ancaman!
+
+118
+00:06:32,240 --> 00:06:35,880
+Han Shi Hoo, kau vampir?
+
+119
+00:07:05,460 --> 00:07:08,400
+Kenapa kau pindah ke sekolah kami?
+
+120
+00:07:08,400 --> 00:07:12,930
+Seperti halnya Papa tirimu.
+Papa tiri vampir.
+
+121
+00:07:14,140 --> 00:07:15,580
+Apa?
+
+122
+00:07:16,580 --> 00:07:19,150
+Kau tak dekat dengan Papa tirimu, kan?
+
+123
+00:07:19,150 --> 00:07:22,630
+Jangan khawatir. Aku akan jaga rahasiamu.
+
+124
+00:07:22,630 --> 00:07:26,610
+Fakta kalau Mamamu menikah dengan vampir...
+
+125
+00:07:26,610 --> 00:07:29,560
+Kenapa aku menyebarkan rumornya?
+
+126
+00:07:29,560 --> 00:07:32,030
+Keparat!
+
+127
+00:07:47,700 --> 00:07:50,030
+Toh aku juga yang rugi
+
+128
+00:07:50,030 --> 00:07:52,360
+kemampuan regenerasiku.
+
+129
+00:07:52,360 --> 00:07:55,670
+Aku dipukuli, tapi tak ada bukti bekas pukulan.
+
+130
+00:07:55,670 --> 00:07:58,320
+Aku bahkan tak bisa melaporkanmu.
+
+131
+00:08:14,820 --> 00:08:17,060
+Silakan saja, pukul aku.
+
+132
+00:08:17,060 --> 00:08:21,720
+Bukan pukulan saja,
+tapi gunakan kekuatan vampirmu.
+
+133
+00:08:21,720 --> 00:08:24,820
+Kemampuan yang kaudapatkan dari darah.
+
+134
+00:08:25,700 --> 00:08:28,190
+Buktikan.
+
+135
+00:08:28,190 --> 00:08:30,330
+Lakukan.
+
+136
+00:08:32,170 --> 00:08:34,840
+Kalau kulakukan, kau akan mati, keparat.
+
+137
+00:08:36,670 --> 00:08:39,810
+Itu sifat aslimu kan?
+
+138
+00:08:39,810 --> 00:08:42,150
+Menghisap darah
+
+139
+00:08:42,910 --> 00:08:46,180
+dan meminum darah.
+
+140
+00:08:48,100 --> 00:08:51,820
+Entah seberapa persisnya kau dengan manusia,
+
+141
+00:08:52,350 --> 00:08:55,070
+kau tak pernah bisa jadi manusia.
+
+142
+00:08:56,580 --> 00:09:00,460
+Keparat, kau pikir hanya karena kau manusia,
+
+143
+00:09:00,460 --> 00:09:03,090
+kau keren, begitu?
+
+144
+00:09:04,120 --> 00:09:08,480
+Vampir sepertimu harus dipisahkan dari masyarakat.
+
+145
+00:09:18,700 --> 00:09:21,930
+Kuperingatkan kau.
+
+146
+00:09:21,930 --> 00:09:24,470
+Mulai besok,
+
+147
+00:09:24,470 --> 00:09:31,180
+jangan dekat-dekat Baek Ma Ri.
+
+148
+00:09:35,620 --> 00:09:37,430
+Kenapa?
+
+149
+00:09:37,430 --> 00:09:42,100
+Kaupikir aku akan mencabik-cabiknya?
+
+150
+00:09:42,830 --> 00:09:45,270
+Mau mampus kau?
+
+151
+00:09:45,270 --> 00:09:48,500
+Jangan membuatku bikin masalah.
+
+152
+00:09:48,500 --> 00:09:51,240
+Kalau aku berniat bikin masalah,
+
+153
+00:09:51,240 --> 00:09:53,420
+kau tak akan mampu menghadapinya.
+
+154
+00:09:53,420 --> 00:09:56,820
+Kita lihat saja, aku mampu mengahadapinya atau tidak.
+
+155
+00:09:56,820 --> 00:09:59,400
+Kuperingatkan kau.
+
+156
+00:09:59,400 --> 00:10:02,770
+Jangan dekat-dekat dia.
+
+157
+00:10:04,000 --> 00:10:06,500
+Kita lihat saja?
+
+158
+00:10:06,500 --> 00:10:09,260
+Sepertinya dia
+
+159
+00:10:09,260 --> 00:10:11,420
+ingin merasakan darah manusia.
+
+160
+00:10:11,420 --> 00:10:14,450
+Diam kau, keparat!
+
+161
+00:10:19,770 --> 00:10:22,460
+Kami mungkin tak minum darah manusia,
+
+162
+00:10:23,820 --> 00:10:28,440
+tapi kami tertarik dengan manusia
+yang darahnya manis.
+
+163
+00:10:28,440 --> 00:10:32,440
+Tahu kenapa? Karena kami tahu
+
+164
+00:10:32,440 --> 00:10:35,560
+daging seperti apa yang rasanya paling enak.
+
+165
+00:10:37,900 --> 00:10:40,260
+Bagiku, begitulah Baek Ma Ri.
+
+166
+00:10:45,040 --> 00:10:50,060
+Makanan yang darahnya enak,
+Baek Ma Ri.
+
+167
+00:11:01,900 --> 00:11:03,500
+Kau membuatku muak.
+
+168
+00:11:06,580 --> 00:11:08,040
+Pergi sana.
+
+169
+00:11:20,720 --> 00:11:22,960
+Baik, kau benar, bangsat!
+
+170
+00:11:22,960 --> 00:11:28,400
+Hanya lukamu saja yang besar,
+dan kau tak bisa memaafkan yang lain?
+
+171
+00:11:29,640 --> 00:11:34,280
+Tunggu saja, Jung Jae Min! Akan ada waktu
+saat kau tak bisa memaafkan dirimu sendiri!
+
+172
+00:11:34,280 --> 00:11:37,620
+Waktu itu akan datang, bangsat!
+
+173
+00:12:07,840 --> 00:12:12,680
+<i>Selamat malam.</i>
+
+174
+00:12:12,680 --> 00:12:17,020
+Kalau aku mimpi, tolong jangan dibangunkan.
+
+175
+00:12:17,020 --> 00:12:20,020
+Kumohon.
+
+176
+00:12:28,760 --> 00:12:34,660
+<i>Hanya lukamu saja yang besar,
+dan kau tak bisa memaafkan yang lain?</i>
+
+177
+00:12:34,660 --> 00:12:40,640
+<i>Tunggu saja, Jung Jae Min! Akan ada waktu
+saat kau tak bisa memaafkan dirimu sendiri!</i>
+
+178
+00:12:46,800 --> 00:12:51,480
+<i>Kuperingatkan kau.
+Mulai besok...</i>
+
+179
+00:12:51,480 --> 00:12:55,880
+<i>jangan dekat-dekat Baek Ma Ri.</i>
+
+180
+00:13:25,780 --> 00:13:29,000
+Hei, kamu lihat Shi Woo?
+
+181
+00:13:29,000 --> 00:13:30,520
+Pak Guru.
+
+182
+00:13:30,520 --> 00:13:33,620
+Shi Woo menghilang.
+
+183
+00:13:34,740 --> 00:13:37,300
+Alasan ibu dan ayahnya dipisahkan.
+
+184
+00:13:38,920 --> 00:13:42,000
+<i>- Ki Jeong!
+- Ki Jeong!</i>
+(Ki Jeong adalah nama yanv diberikan pertama kali untuk Shi Hoo.)
+
+185
+00:13:42,000 --> 00:13:45,100
+<i>Ki Jeong!</i>
+
+186
+00:13:45,100 --> 00:13:48,700
+<i>Saat itu Shi Hoo masih kecil,
+dia tak bisa mengontrol kebutuhannya </i>
+
+187
+00:13:48,700 --> 00:13:50,660
+<i>di umur segitu.</i>
+
+188
+00:14:31,940 --> 00:14:34,380
+<i>Untuk melindungi Shi Woo, </i>
+
+189
+00:14:35,720 --> 00:14:38,760
+<i>dia terjebak dalam situasi sulit.</i>
+
+190
+00:14:54,680 --> 00:14:56,400
+Jae Min.
+
+191
+00:15:06,120 --> 00:15:08,340
+Wajahmu kenapa?
+
+192
+00:15:09,420 --> 00:15:10,680
+Bukan apa-apa.
+
+193
+00:15:11,760 --> 00:15:13,680
+Sungguh kamu tak apa?
+
+194
+00:15:14,540 --> 00:15:15,900
+Iya.
+
+195
+00:15:18,440 --> 00:15:22,780
+Kamu lihat Shi Woo?
+
+196
+00:15:24,480 --> 00:15:26,140
+Kenapa?
+
+197
+00:15:26,140 --> 00:15:28,520
+Aku tak bisa menemukannya.
+
+198
+00:15:29,140 --> 00:15:30,420
+Terus?
+
+199
+00:15:31,480 --> 00:15:34,120
+Karena tak menemukannya,
+aku mencarinya.
+
+200
+00:15:34,780 --> 00:15:36,580
+Kenapa kamu?
+
+201
+00:15:36,580 --> 00:15:41,780
+Kita harus segera tampil.
+
+202
+00:15:51,720 --> 00:15:53,580
+Aku akan mencarinya.
+
+203
+00:15:55,900 --> 00:15:57,700
+Ayo sama-sama.
+
+204
+00:15:58,900 --> 00:16:10,120
+Kamu tak boleh sendirian dengan
+Han Shi Hoo, tak boleh.
+
+205
+00:16:10,145 --> 00:16:10,260
+S
+
+206
+00:16:10,261 --> 00:16:10,377
+Su
+
+207
+00:16:10,378 --> 00:16:10,493
+Sub
+
+208
+00:16:10,494 --> 00:16:10,609
+Subt
+
+209
+00:16:10,610 --> 00:16:10,725
+Subti
+
+210
+00:16:10,726 --> 00:16:10,842
+Subtit
+
+211
+00:16:10,843 --> 00:16:10,958
+Subtitl
+
+212
+00:16:10,959 --> 00:16:11,074
+Subtitle
+
+213
+00:16:11,075 --> 00:16:11,191
+Subtitle
+
+214
+00:16:11,192 --> 00:16:11,307
+Subtitle o
+
+215
+00:16:11,308 --> 00:16:11,423
+Subtitle ol
+
+216
+00:16:11,424 --> 00:16:11,539
+Subtitle ole
+
+217
+00:16:11,540 --> 00:16:11,656
+Subtitle oleh
+
+218
+00:16:11,657 --> 00:16:11,772
+Subtitle oleh
+
+219
+00:16:11,773 --> 00:16:11,888
+Subtitle oleh :
+
+220
+00:16:11,889 --> 00:16:12,004
+Subtitle oleh :
+
+221
+00:16:12,005 --> 00:16:12,121
+Subtitle oleh :
+
+222
+00:16:12,122 --> 00:16:12,237
+Subtitle oleh :
+~
+
+223
+00:16:12,238 --> 00:16:12,353
+Subtitle oleh :
+~
+
+224
+00:16:12,354 --> 00:16:12,470
+Subtitle oleh :
+~ D
+
+225
+00:16:12,471 --> 00:16:12,586
+Subtitle oleh :
+~ Da
+
+226
+00:16:12,587 --> 00:16:12,702
+Subtitle oleh :
+~ Dar
+
+227
+00:16:12,703 --> 00:16:12,818
+Subtitle oleh :
+~ Dark
+
+228
+00:16:12,819 --> 00:16:12,935
+Subtitle oleh :
+~ DarkS
+
+229
+00:16:12,936 --> 00:16:13,051
+Subtitle oleh :
+~ DarkSm
+
+230
+00:16:13,052 --> 00:16:13,167
+Subtitle oleh :
+~ DarkSmu
+
+231
+00:16:13,168 --> 00:16:13,284
+Subtitle oleh :
+~ DarkSmur
+
+232
+00:16:13,285 --> 00:16:13,400
+Subtitle oleh :
+~ DarkSmurf
+
+233
+00:16:13,401 --> 00:16:13,516
+Subtitle oleh :
+~ DarkSmurfS
+
+234
+00:16:13,517 --> 00:16:13,632
+Subtitle oleh :
+~ DarkSmurfSu
+
+235
+00:16:13,633 --> 00:16:13,749
+Subtitle oleh :
+~ DarkSmurfSub
+
+236
+00:16:13,750 --> 00:16:13,865
+Subtitle oleh :
+~ DarkSmurfSub
+
+237
+00:16:13,866 --> 00:16:13,981
+Subtitle oleh :
+~ DarkSmurfSub I
+
+238
+00:16:13,982 --> 00:16:14,097
+Subtitle oleh :
+~ DarkSmurfSub In
+
+239
+00:16:14,098 --> 00:16:14,214
+Subtitle oleh :
+~ DarkSmurfSub Ind
+
+240
+00:16:14,215 --> 00:16:14,330
+Subtitle oleh :
+~ DarkSmurfSub Indo
+
+241
+00:16:14,331 --> 00:16:14,446
+Subtitle oleh :
+~ DarkSmurfSub Indon
+
+242
+00:16:14,447 --> 00:16:14,563
+Subtitle oleh :
+~ DarkSmurfSub Indone
+
+243
+00:16:14,564 --> 00:16:14,679
+Subtitle oleh :
+~ DarkSmurfSub Indones
+
+244
+00:16:14,680 --> 00:16:14,795
+Subtitle oleh :
+~ DarkSmurfSub Indonesi
+
+245
+00:16:14,796 --> 00:16:14,911
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+246
+00:16:14,912 --> 00:16:15,028
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+247
+00:16:15,029 --> 00:16:21,145
+Subtitle oleh :
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+
+248
+00:16:21,170 --> 00:16:27,170
+Diterjemahkan oleh :
+~<font color="#ffff80"> i</font>.<font color="#ff8000">f</font>.<font color="#ffff80">a</font>.<font color="#ff8000">b</font>.<font color="#ffff80">e</font>.<font color="#ff8000">e</font> ~
+
+249
+00:16:37,560 --> 00:16:41,120
+Hyeong! Hati-hati!
+
+250
+00:16:46,800 --> 00:16:49,600
+Hyeong, hati-hati.
+
+251
+00:16:52,640 --> 00:16:56,860
+Shi Woo! Han Shi Woo!
+
+252
+00:16:57,380 --> 00:16:59,060
+Shi Woo!
+
+253
+00:17:02,880 --> 00:17:06,040
+Shi Woo! Han Shi Woo!
+
+254
+00:17:06,040 --> 00:17:08,520
+Tolong!
+
+255
+00:17:15,750 --> 00:17:18,680
+Bertahanlah! Aku akan membantumu!
+
+256
+00:17:20,880 --> 00:17:23,760
+Ibu!
+
+257
+00:17:26,670 --> 00:17:28,920
+<i>Tolong!</i>
+
+258
+00:17:44,620 --> 00:17:46,180
+Teman-teman!
+
+259
+00:17:47,480 --> 00:17:50,000
+Kalian lihat Jae Min?
+
+260
+00:17:50,000 --> 00:17:52,880
+Mereka ke pantai bersama.
+
+261
+00:17:52,880 --> 00:17:54,700
+Apa? Dengan Baek Ma Ri?
+
+262
+00:17:54,700 --> 00:17:58,640
+Apa ini? Jung Jae Min
+jadi makin aneh.
+
+263
+00:17:58,640 --> 00:18:00,640
+Mereka ke sini untuk pacaran?
+
+264
+00:18:01,780 --> 00:18:03,680
+Pasti telah terjadi sesuatu.
+
+265
+00:18:03,680 --> 00:18:05,920
+Di pantai bisa terjadi apa?
+
+266
+00:18:05,920 --> 00:18:08,980
+"Tangkap daku~" gitu?
+
+267
+00:18:08,980 --> 00:18:10,480
+Ayo.
+
+268
+00:18:21,720 --> 00:18:23,000
+Nah.
+
+269
+00:18:23,880 --> 00:18:26,380
+Hyeong!
+
+270
+00:18:34,900 --> 00:18:36,880
+Hyeong!
+
+271
+00:18:39,020 --> 00:18:40,620
+Awas!
+
+272
+00:18:43,800 --> 00:18:45,300
+Jae Min!
+
+273
+00:19:03,580 --> 00:19:06,220
+Bagaimana ini?
+
+274
+00:19:14,900 --> 00:19:19,440
+<i>Tolong kami!</i>
+
+275
+00:19:19,440 --> 00:19:21,180
+<i>Jae Min! Jung Jae Min !</i>
+
+276
+00:19:21,180 --> 00:19:24,520
+<i>Kumohon tolong kami!</i>
+
+277
+00:19:38,980 --> 00:19:42,520
+<i>Tolong! Aku juga memilikinya.</i>
+
+278
+00:19:42,520 --> 00:19:46,440
+<i>Meskipun belum pernah kugunakan, pasti akan berhasil.</i>
+
+279
+00:19:46,440 --> 00:19:51,220
+<i>Kekuatan vampirku.
+Karena aku vampir. </i>
+
+280
+00:19:51,220 --> 00:19:55,660
+<i>Aku juga punya.
+Kumohon. Tolonglah, tolong. Sekarang! </i>
+
+281
+00:19:59,890 --> 00:20:01,530
+Cepat, cari bantuan!
+
+282
+00:20:01,530 --> 00:20:03,610
+Ba-baik!
+
+283
+00:20:07,110 --> 00:20:09,290
+Kamu waras tidak!
+
+284
+00:20:09,290 --> 00:20:12,930
+Kamu tak boleh gunakan kekuatanmu!
+
+285
+00:20:12,930 --> 00:20:14,850
+Minggir!
+
+286
+00:20:43,570 --> 00:20:47,690
+Jae Min...
+
+287
+00:20:52,490 --> 00:20:55,710
+Jae Min... Jae Min...
+
+288
+00:20:55,710 --> 00:20:56,550
+Jung Jae Min
+
+289
+00:20:56,550 --> 00:21:00,370
+Tetaplah di sini.
+Aku akan lapor.
+
+290
+00:21:40,990 --> 00:21:43,210
+<i>Baek Ma Ri!</i>
+
+291
+00:21:53,730 --> 00:21:57,470
+Ah Ra, tolong.
+
+292
+00:22:21,950 --> 00:22:24,830
+-=Instalasi Gawat Darurat=-
+
+293
+00:22:42,480 --> 00:22:44,420
+Aku...
+
+294
+00:22:47,520 --> 00:22:49,560
+Aku...
+
+295
+00:22:51,480 --> 00:22:53,400
+Kenapa...
+
+296
+00:23:47,690 --> 00:23:52,390
+Apa aku salah lihat? Tidak...
+
+297
+00:23:55,490 --> 00:23:57,530
+<i>Baek Ma Ri! </i>
+
+298
+00:24:33,730 --> 00:24:35,590
+Ma Ri!
+
+299
+00:24:38,720 --> 00:24:41,380
+Pak Guru.
+
+300
+00:24:41,380 --> 00:24:45,660
+Jae Min putraku bagaimana?
+Dia baik-baik saja?
+
+301
+00:24:54,140 --> 00:24:58,580
+Maaf karena tak mengatakan yang sebenarnya.
+
+302
+00:24:58,580 --> 00:25:05,520
+Orang yang menikah denganku
+adalah Guru Kang Min Ha, Mamanya Jae Min.
+
+303
+00:25:05,520 --> 00:25:10,060
+Jae Min tak ingin ada yang tahu.
+
+304
+00:25:10,060 --> 00:25:14,060
+Kenyataannya Mamanya menikah dengan vampir.
+
+305
+00:25:14,060 --> 00:25:16,780
+Bahwa Mamanya menikah dengan vampir.
+
+306
+00:25:25,320 --> 00:25:28,040
+<i>Mamaku suka sekali... musik.</i>
+
+307
+00:25:28,040 --> 00:25:32,640
+<i>Mamaku membelikanku gitar pertamaku,
+dan mengajari cara memainkanya.</i>
+
+308
+00:25:33,440 --> 00:25:38,480
+<i>Mamaku seorang guru musik.</i>
+
+309
+00:25:38,480 --> 00:25:41,660
+<i>Beliau suka sekali aku memainkan gitar.</i>
+
+310
+00:25:42,680 --> 00:25:45,430
+<i>Tapi aku tak mau memainkannya lagi.</i>
+
+311
+00:25:45,430 --> 00:25:51,590
+<i>Lihat, seberapa inginnya aku bermain musik,
+aku tak akan pernah melakukan hal yang disukai Mama.</i>
+
+312
+00:26:28,380 --> 00:26:30,400
+Jae Min.
+
+313
+00:26:36,530 --> 00:26:40,250
+Jae Min, kamu tak apa?
+
+314
+00:26:46,280 --> 00:26:51,690
+Ini Mama. Ini Mama.
+
+315
+00:26:51,715 --> 00:27:16,715
+<font color="#c896ff">DSS-INDO BLOG :</font>
+http://dssindonesia.blogspot.com
+
+316
+00:27:17,510 --> 00:27:19,570
+Baek Ma Ri.
+
+317
+00:27:33,840 --> 00:27:36,280
+Ah Ra...
+
+318
+00:27:42,030 --> 00:27:44,550
+Jae Min juga tahu?
+
+319
+00:27:55,890 --> 00:27:57,570
+-=VCE =-
+
+320
+00:28:09,190 --> 00:28:11,070
+-=Baek Ma Ri=-
+
+321
+00:28:19,080 --> 00:28:20,720
+=Kamu di mana?=
+
+322
+00:28:20,720 --> 00:28:22,420
+Memangnya panting?
+
+323
+00:28:22,420 --> 00:28:27,900
+=Kenapa tak kau angkat teleponmu?
+Kau tahu berapa lama Guru Han mencarimu?=
+
+324
+00:28:27,900 --> 00:28:30,440
+Aku diincar oleh VCE.
+
+325
+00:28:30,440 --> 00:28:33,120
+Mungkin mereka menemukan lokasiku.
+
+326
+00:28:33,120 --> 00:28:35,520
+Aku akan ditahan.
+
+327
+00:28:36,640 --> 00:28:41,380
+Aku tak akan mengatakan
+apa selanjutnya.
+
+328
+00:28:42,040 --> 00:28:44,220
+Shi Hoo...
+
+329
+00:28:45,850 --> 00:28:48,450
+Kamu menyelamatkan Jae Min.
+
+330
+00:28:48,450 --> 00:28:51,750
+- Karena kau menyelamatkan manusia-
+- Aku tak peduli.
+
+331
+00:28:55,210 --> 00:28:58,930
+Pastikan kau lulus, Baek Ma Ri.
+
+332
+00:28:58,930 --> 00:29:01,410
+Seperti harapanmu.
+
+333
+00:29:03,810 --> 00:29:05,530
+Iya.
+
+334
+00:29:06,940 --> 00:29:11,780
+Baik-baik ya.
+Jangan sampai ketahuan.
+
+335
+00:29:15,900 --> 00:29:18,260
+Aku mengerti.
+
+336
+00:29:18,260 --> 00:29:20,500
+Pasti.
+
+337
+00:29:25,870 --> 00:29:26,900
+Shi Hoo.
+
+338
+00:29:26,900 --> 00:29:29,630
+Hei! Han Shi Hoo!
+
+339
+00:29:35,300 --> 00:29:39,740
+<i>Baik-baik ya. Jangan sampai ketahuan. </i>
+
+340
+00:30:27,350 --> 00:30:32,770
+<i>Jae Min... maakan aku.</i>
+
+341
+00:30:32,770 --> 00:30:38,530
+<i>Karena menyukaimu. Seperti orang yang tak terlihat...</i>
+
+342
+00:30:38,530 --> 00:30:41,110
+<i>Seperti aku tak pernah ada...</i>
+
+343
+00:30:42,710 --> 00:30:47,870
+<i>Aku akan seperti itu lagi.</i>
+
+344
+00:30:49,470 --> 00:30:53,120
+<i>Selamat tinggal, Jung Jae Min.</i>
+
+345
+00:30:53,120 --> 00:30:57,240
+=Nomor yang Anda hubungi tidak menjawab.=
+
+346
+00:30:57,290 --> 00:30:59,060
+Siapa?
+
+347
+00:31:07,860 --> 00:31:11,140
+-=Jung Jae Min.=-
+
+348
+00:31:11,140 --> 00:31:16,150
+-=Ingin menghapus nomor ini?=-
+
+349
+00:31:16,175 --> 00:31:41,175
+<font color="#ff6464">Fanpage  DSS-INDO</font>
+www.facebook.com/DarkSmurfSubIndo
+
+350
+00:32:20,260 --> 00:32:22,580
+Sungguh?
+
+351
+00:32:26,760 --> 00:32:31,610
+- Hei, wajahmu kenapa?
+- Jae Min, kau baik-baik saja?
+
+352
+00:32:32,950 --> 00:32:37,000
+- Ma Ri mana?
+- Aku tak tahu.
+
+353
+00:32:41,890 --> 00:32:44,060
+Kami tak tahu...
+
+354
+00:32:48,050 --> 00:32:50,350
+Ke mana Ma Ri?
+
+355
+00:32:51,410 --> 00:32:56,460
+Apa? Katakan sekali lagi!
+
+356
+00:32:56,480 --> 00:33:00,360
+Itu... Jae Min...
+
+357
+00:33:23,500 --> 00:33:29,230
+<i>Kau tak pantas dengan Baek Ma Ri.
+Kau dan Baek Ma Ri tak cocok bersama. </i>
+
+358
+00:33:29,230 --> 00:33:32,140
+<i>Anak pintar sepertimu nggak akan berhasil. </i>
+
+359
+00:33:32,170 --> 00:33:35,120
+<i>Baek Ma Ri... cewek yang
+bahkan tak bisa kau mengerti</i>
+
+360
+00:33:35,160 --> 00:33:38,260
+<i>Karena kau tak tahu dunia di luar sana.</i>
+
+361
+00:33:39,700 --> 00:33:44,590
+<i>Baek Ma Ri, dia tak bisa kaupahami dengan kepalamu,
+tapi kau masih menyukainya?</i>
+
+362
+00:33:48,090 --> 00:33:53,120
+<i>Tapi, meskipun begitu, </i>
+
+363
+00:33:56,160 --> 00:33:58,430
+<i>kebenaran</i>
+
+364
+00:33:59,890 --> 00:34:01,820
+<i>yang belum bisa dipastikan </i>
+
+365
+00:34:04,830 --> 00:34:07,070
+<i>tidaklah benar. </i>
+
+366
+00:35:06,070 --> 00:35:11,500
+Tak seharusnya aku keluyuran.
+
+367
+00:35:18,270 --> 00:35:20,200
+Itu yang harusnya kulakukan.
+
+368
+00:35:37,430 --> 00:35:43,400
+-=Pelindung Sinar Matahari=-
+
+369
+00:36:57,520 --> 00:37:00,400
+<i>Bagaimana kau bisa tahu itu aku?</i>
+
+370
+00:37:00,400 --> 00:37:02,730
+<i>Sebelumnya kita berbagi darah, jadi itu anugerah.</i>
+
+371
+00:37:12,840 --> 00:37:16,970
+<i>Kunyuk itu... sepertinya suka padamu.</i>
+
+372
+00:37:58,630 --> 00:38:04,440
+Ma Ri! Ma Ri! Baek Ma Ri!
+
+373
+00:38:04,480 --> 00:38:08,730
+Ma Ri! Baek Ma Ri!
+
+374
+00:38:17,780 --> 00:38:19,360
+Ada apa?
+
+375
+00:38:20,760 --> 00:38:25,400
+<i>Setelah hari itu, Ma Ri </i>
+
+376
+00:38:27,060 --> 00:38:28,960
+<i>menghilang. </i>
+
+377
+00:38:48,360 --> 00:38:52,390
+<i>Minta maaf padaku.
+Haruskah aku membuatmu mengingatnya?</i>
+
+378
+00:38:57,620 --> 00:39:01,690
+<i>Kumarah seperti ini, </i>
+
+379
+00:39:03,710 --> 00:39:06,590
+<i>Ingin membencimu setengah mati</i>
+
+380
+00:39:08,650 --> 00:39:11,110
+<i>Di saat ini.</i>
+
+381
+00:39:11,110 --> 00:39:14,010
+<i>Karena hanya dikau yang ada dalam memoriku</i>
+
+382
+00:39:15,680 --> 00:39:18,390
+<i>Kutak bisa memintamu hal lain. </i>
+
+383
+00:39:25,670 --> 00:39:29,900
+-=2 Minggu Kemudian=-
+
+384
+00:39:32,900 --> 00:39:36,890
+<i>Kutinggalkan gitarku di ruang latihan.
+Kubilang bisa kubawa ke rumahmu... </i>
+
+385
+00:40:29,360 --> 00:40:33,590
+<i>Bisa kamu selesaikan lagu ini?
+Sepertinya belum selesai. </i>
+
+386
+00:40:57,550 --> 00:41:00,820
+<i>Jae Min, maafkan aku.</i>
+
+387
+00:41:43,840 --> 00:41:48,020
+<i>Baru pertama bikin kesalahan itu.</i>
+
+388
+00:41:48,020 --> 00:41:53,830
+<i>Aku lebih menyesal lagi
+karena ternyata kau.</i>
+
+389
+00:41:53,830 --> 00:42:01,510
+<i>Tapi hal yang sangat kusesalkan, adalah... mulai sekarang,
+kita harus saling menghindari.</i>
+
+390
+00:42:09,120 --> 00:42:13,390
+<i>Tidak untuk mendiskriminasi karena ada perbedaan, </i>
+
+391
+00:42:13,390 --> 00:42:20,160
+<i>namun membuat ruang bagi mereka
+yang bilang kalau mereka tak berguna. </i>
+
+392
+00:42:20,160 --> 00:42:23,230
+<i>Jadi kuharap band kami bisa bekerja sama</i>
+
+393
+00:42:23,230 --> 00:42:27,500
+<i>untuk membuat karya musik seperti selai jeruk.</i>
+
+394
+00:42:33,100 --> 00:42:35,920
+-=Nomor tak dikenal=-
+
+395
+00:42:39,040 --> 00:42:41,640
+=Saat ini terjadi angin topan.=
+
+396
+00:42:41,640 --> 00:42:48,040
+=Diperkirakan malam ini akan berpengaruh
+ke Korea.=
+
+397
+00:42:48,040 --> 00:42:52,320
+=Saat ini dilaporkan di bagian tenggara Okinawa.=
+
+398
+00:42:52,320 --> 00:42:56,530
+<i>Harusnya aku tak menghubungimu, tapi</i>
+
+399
+00:42:56,530 --> 00:42:59,560
+<i>anakku hilang.</i>
+
+400
+00:42:59,560 --> 00:43:04,210
+<i>Kita harus segera menemukannya.
+Hapenya bahkan ditinggal</i>
+
+401
+00:43:04,210 --> 00:43:11,820
+<i>Dia tak punya teman, tapi meniyimpan nomormu.
+Mungkin kau tahu tempat yang mungkin dia...</i>
+
+402
+00:44:23,260 --> 00:44:27,960
+Kamu kesini hanya untuk membuat harapan?
+
+403
+00:44:29,800 --> 00:44:32,010
+Harapanku...
+
+404
+00:44:34,280 --> 00:44:37,450
+semoga tak menjadi kenyataan.
+
+405
+00:44:37,450 --> 00:44:39,640
+Apa?
+
+406
+00:44:41,080 --> 00:44:45,070
+Untuk hidup
+
+407
+00:44:45,070 --> 00:44:48,030
+seperti manusia normal.
+
+408
+00:44:54,290 --> 00:44:56,770
+Apa benar...
+
+409
+00:44:59,340 --> 00:45:01,610
+begitu?
+
+410
+00:45:04,340 --> 00:45:06,720
+Baek Ma Ri, apa kamu...
+
+411
+00:45:08,950 --> 00:45:11,120
+benar...
+
+412
+00:45:15,650 --> 00:45:19,030
+vampir?
+
+413
+00:45:19,070 --> 00:45:23,980
+Apa benar? Apa benar yang teman-teman katakan?
+
+414
+00:45:24,940 --> 00:45:26,750
+Aku harus dengar darimu langsung.
+
+415
+00:45:26,750 --> 00:45:32,480
+Aku... aku...
+
+416
+00:45:32,480 --> 00:45:34,520
+Maafkan aku.
+
+417
+00:45:36,130 --> 00:45:39,390
+Untuk menyembunyikan rahasiaku...
+
+418
+00:45:41,400 --> 00:45:45,230
+Sudah berbohong padamu, aku minta maaf.
+
+419
+00:45:46,720 --> 00:45:51,540
+Sangat... mudah.
+
+420
+00:45:51,540 --> 00:45:57,460
+Sekarang, bahkan minita maaf.
+Semudah itu?
+
+421
+00:45:57,460 --> 00:46:02,070
+Cukup hanya dengan minta maaf?
+Dengan begitu, apa selesai?
+
+422
+00:46:02,130 --> 00:46:05,140
+Kalau gitu, berakhir?
+
+423
+00:46:06,930 --> 00:46:09,060
+Bagaimana kau bisa!
+
+424
+00:46:10,940 --> 00:46:13,660
+Bagaimana kamu bisa begini...
+
+425
+00:46:18,160 --> 00:46:21,180
+Tak bisakah kamu katakan
+kalau hal ini tak benar?
+
+426
+00:46:21,220 --> 00:46:24,900
+Kalau kamu katakan, bukan.
+
+427
+00:46:24,900 --> 00:46:29,020
+Aku... akan percaya kata-katamu.
+
+428
+00:46:29,020 --> 00:46:34,410
+Tak peduli yang dikatakan orang lain.
+Aku akan mempercayai kata-katamu.
+
+429
+00:46:35,460 --> 00:46:37,420
+Aku...
+
+430
+00:46:40,450 --> 00:46:43,000
+Benar, Jae Min.
+
+431
+00:46:46,030 --> 00:46:52,450
+Aku vampir. Yang kamu benci.
+
+432
+00:46:52,450 --> 00:46:54,880
+Aku tak bisa hidup
+kalau tak minum darah.
+
+433
+00:46:54,880 --> 00:47:00,190
+Jangan lakukan! Kamu bukan! Kamu bukan!
+
+434
+00:47:01,770 --> 00:47:09,630
+Saat itu, aku berharap kamu
+tak mengharapkanku.
+
+435
+00:47:16,960 --> 00:47:22,120
+Tapi, kurasa aku ingin
+
+436
+00:47:23,360 --> 00:47:27,380
+berkelip, paling tidak satu kali.
+
+437
+00:47:27,380 --> 00:47:33,790
+Seperti kelip mercusuar di kegelapan lautan.
+
+438
+00:47:33,790 --> 00:47:38,880
+Aku juga... untuk seseorang
+
+439
+00:47:41,500 --> 00:47:44,420
+ingin jadi seberkas cahaya
+
+440
+00:47:46,770 --> 00:47:49,540
+yang berkelip...
+
+441
+00:47:56,450 --> 00:47:58,570
+Ma Ri...
+
+442
+00:47:59,820 --> 00:48:01,520
+Sekarang, pergilah.
+
+443
+00:48:01,520 --> 00:48:03,730
+Baek Ma Ri.
+
+444
+00:48:04,990 --> 00:48:08,520
+Tak seharusnya kuseberangi jalan denganmu.
+
+445
+00:48:10,210 --> 00:48:13,160
+Dengan menyukaimu.
+
+446
+00:48:13,160 --> 00:48:18,520
+Jung Jae Min, karena menyukaimu
+
+447
+00:48:20,700 --> 00:48:22,590
+aku minta maaf.
+
+448
+00:48:22,615 --> 00:48:22,754
+S
+
+449
+00:48:22,755 --> 00:48:22,893
+Su
+
+450
+00:48:22,894 --> 00:48:23,033
+Sub
+
+451
+00:48:23,034 --> 00:48:23,172
+Subt
+
+452
+00:48:23,173 --> 00:48:23,312
+Subti
+
+453
+00:48:23,313 --> 00:48:23,451
+Subtit
+
+454
+00:48:23,452 --> 00:48:23,591
+Subtitl
+
+455
+00:48:23,592 --> 00:48:23,730
+Subtitle
+
+456
+00:48:23,731 --> 00:48:23,870
+Subtitle
+
+457
+00:48:23,871 --> 00:48:24,009
+Subtitle o
+
+458
+00:48:24,010 --> 00:48:24,149
+Subtitle ol
+
+459
+00:48:24,150 --> 00:48:24,288
+Subtitle ole
+
+460
+00:48:24,289 --> 00:48:24,428
+Subtitle oleh
+
+461
+00:48:24,429 --> 00:48:24,567
+Subtitle oleh
+
+462
+00:48:24,568 --> 00:48:24,707
+Subtitle oleh :
+
+463
+00:48:24,708 --> 00:48:24,847
+Subtitle oleh :
+
+464
+00:48:24,848 --> 00:48:24,986
+Subtitle oleh :
+
+465
+00:48:24,987 --> 00:48:25,126
+Subtitle oleh :
+~
+
+466
+00:48:25,127 --> 00:48:25,265
+Subtitle oleh :
+~
+
+467
+00:48:25,266 --> 00:48:25,405
+Subtitle oleh :
+~ D
+
+468
+00:48:25,406 --> 00:48:25,544
+Subtitle oleh :
+~ Da
+
+469
+00:48:25,545 --> 00:48:25,684
+Subtitle oleh :
+~ Dar
+
+470
+00:48:25,685 --> 00:48:25,823
+Subtitle oleh :
+~ Dark
+
+471
+00:48:25,824 --> 00:48:25,963
+Subtitle oleh :
+~ DarkS
+
+472
+00:48:25,964 --> 00:48:26,102
+Subtitle oleh :
+~ DarkSm
+
+473
+00:48:26,103 --> 00:48:26,242
+Subtitle oleh :
+~ DarkSmu
+
+474
+00:48:26,243 --> 00:48:26,381
+Subtitle oleh :
+~ DarkSmur
+
+475
+00:48:26,382 --> 00:48:26,521
+Subtitle oleh :
+~ DarkSmurf
+
+476
+00:48:26,522 --> 00:48:26,661
+Subtitle oleh :
+~ DarkSmurfS
+
+477
+00:48:26,662 --> 00:48:26,800
+Subtitle oleh :
+~ DarkSmurfSu
+
+478
+00:48:26,801 --> 00:48:26,940
+Subtitle oleh :
+~ DarkSmurfSub
+
+479
+00:48:26,941 --> 00:48:27,079
+Subtitle oleh :
+~ DarkSmurfSub
+
+480
+00:48:27,080 --> 00:48:27,219
+Subtitle oleh :
+~ DarkSmurfSub I
+
+481
+00:48:27,220 --> 00:48:27,358
+Subtitle oleh :
+~ DarkSmurfSub In
+
+482
+00:48:27,359 --> 00:48:27,498
+Subtitle oleh :
+~ DarkSmurfSub Ind
+
+483
+00:48:27,499 --> 00:48:27,637
+Subtitle oleh :
+~ DarkSmurfSub Indo
+
+484
+00:48:27,638 --> 00:48:27,777
+Subtitle oleh :
+~ DarkSmurfSub Indon
+
+485
+00:48:27,778 --> 00:48:27,916
+Subtitle oleh :
+~ DarkSmurfSub Indone
+
+486
+00:48:27,917 --> 00:48:28,056
+Subtitle oleh :
+~ DarkSmurfSub Indones
+
+487
+00:48:28,057 --> 00:48:28,195
+Subtitle oleh :
+~ DarkSmurfSub Indonesi
+
+488
+00:48:28,196 --> 00:48:28,335
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+489
+00:48:28,336 --> 00:48:28,474
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+490
+00:48:28,475 --> 00:48:34,615
+Subtitle oleh :
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+
+491
+00:48:34,640 --> 00:48:40,640
+Diterjemahkan oleh :
+~<font color="#b97dff"> i</font>.<font color="#d70073">f</font>.<font color="#b97dff">a</font>.<font color="#d70073">b</font>.<font color="#b97dff">e</font>.<font color="#d70073">e</font> ~
+
+492
+00:48:42,450 --> 00:48:46,040
+Jae Min! Jae Min!
+
+493
+00:48:48,440 --> 00:48:51,400
+Jae Min!
+
+494
+00:48:56,050 --> 00:48:58,750
+Jae Min!
+
+495
+00:49:01,250 --> 00:49:04,290
+Jae Min!
+
+496
+00:49:20,650 --> 00:49:24,950
+<i>Saat ini, ada yang ingin kukatakan.</i>
+
+497
+00:49:24,950 --> 00:49:29,590
+<i>Aku harus katakan ini padanya. </i>
+
+498
+00:49:32,430 --> 00:49:38,290
+<i>Saat ini, aku tahu.</i>
+
+499
+00:49:38,290 --> 00:49:43,860
+<i>Vampir atau bukan.
+Aku sama sekali tak peduli.</i>
+
+500
+00:49:46,130 --> 00:49:54,830
+<i>Namun, harus dirimu.
+Bagiku, haruslah dirimu. </i>
+
+501
+00:49:58,970 --> 00:50:00,960
+<i>Ma Ri...</i>
+
+502
+00:50:03,550 --> 00:50:05,690
+<i>Aku menyukaimu.</i>
+
+503
+00:51:07,690 --> 00:51:11,180
+Jae Min! Bangun!
+
+504
+00:51:18,100 --> 00:51:20,770
+Jae Min! Jae Min!
+
+505
+00:51:31,340 --> 00:51:33,530
+Jae Min...
+
+506
+00:51:36,520 --> 00:51:38,560
+Jae Min.
+
+507
+00:51:48,560 --> 00:51:50,470
+Kamu...
+
+508
+00:51:54,800 --> 00:51:57,010
+Kamu siapa?
+
+509
+00:52:00,180 --> 00:52:02,150
+<i>Kau siapa?</i>
+
+510
+00:52:03,190 --> 00:52:05,100
+Jae Min...
+
+511
+00:52:06,360 --> 00:52:08,530
+Aku...
+
+512
+00:52:11,840 --> 00:52:13,670
+Kau mengenalku?
+
+513
+00:52:13,670 --> 00:52:17,100
+<i>Kau... kau mengenalku?</i>
+
+514
+00:52:17,100 --> 00:52:20,850
+<i>Tentu saja tahu. Kita sekelas.</i>
+
+515
+00:52:58,050 --> 00:53:00,740
+-=2 Mingu Kemudian=-
+
+516
+00:53:15,430 --> 00:53:19,280
+=Kereta hampir sampai.=-
+
+517
+00:53:37,830 --> 00:53:42,350
+Jung Jae Min. Sekolahmu sama denganku, kan?
+
+518
+00:53:42,350 --> 00:53:45,710
+Kau... sekolahmu sama denganku, kan?
+
+519
+00:53:45,735 --> 00:54:35,735
+Terima kasih telah menyaksikan "<font color="#ff8080">Orange Marmalade</font>" bersama
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+
+520
+00:54:41,300 --> 00:54:44,690
+-=Orange Marmalade Berikutnya=-
+
+521
+00:54:44,690 --> 00:54:48,060
+<i>Kalian siapa melewati perbatasan malam-malam begini?</i>
+
+522
+00:54:48,060 --> 00:54:50,750
+<i>Dapat! Vampir</i>
+
+523
+00:54:50,750 --> 00:54:52,650
+<i>Vampir di Ibukota?
+Apa benar?</i>
+
+524
+00:54:52,650 --> 00:54:54,550
+<i>Aku bukan vampir.</i>
+
+525
+00:54:54,550 --> 00:54:58,460
+<i>Di keluarga prajurit,
+bagaimana bisa begitu lemah...</i>
+
+526
+00:54:58,460 --> 00:55:00,570
+<i>Malu di keluarga kita</i>
+
+527
+00:55:00,570 --> 00:55:03,510
+<i>Betapa mengecewakan,
+kalau bukan karena strategi itu</i>
+
+528
+00:55:03,510 --> 00:55:08,310
+<i>Apa benar kau melakukan pertarungan ilegal sebagai prajurit?</i>
+
+529
+00:55:08,310 --> 00:55:11,400
+<i>Masuklah prajurit!</i>
+
+530
+00:55:13,770 --> 00:55:15,300
+<i>Hei kau.</i>
+
+531
+00:55:15,300 --> 00:55:18,430
+<i>Namamu... siapa?</i>
+
